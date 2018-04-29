@@ -1,0 +1,19 @@
+video {
+	height: 100%; 
+	width: 100%;
+	margin: auto;
+	overflow-y: auto;
+	overflow-x: hidden;
+	align-items: center;
+
+}
+
+.story-body {
+position: relative;
+margin-left: 0;
+margin-right: 0;
+margin-top: 700px;
+text-justify
+align-items: center;
+font: monospace;
+}
