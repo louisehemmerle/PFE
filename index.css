@@ -11,6 +11,11 @@ div .videotop {
 
 div .imgbox {
 	position: relative;
+    min-width: 100%;
+    height:auto;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 div .iframe {
@@ -128,6 +133,7 @@ img {
     margin: 0 auto;
     height: auto;
     max-width: 100%;
+    min-width: 100%;
     align-items: center;
     margin-top: 80px;
     margin-bottom: 80px;
@@ -153,13 +159,14 @@ img {
     align-items: center;
     margin-top: 80px;
     margin-bottom: 80px;
- }
+} 
 
- iframe {
+
+iframe {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
     min-height:100%;
-     }
+}
 
